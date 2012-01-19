@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="agencies">
+	    <item>"ALL AGENCIES"</item>
+		<item>"AFRO-AMERICAN MUSEUM"</item>
+		<item>"AGRICULTURAL LABOR REL BOARD"</item>
+		<item>"AIR RESOURCES BOARD"</item>
+		<item>"ALCOHOLIC BEVERAGE CNTR AP BD"</item>
+		<item>"ALCOHOLIC BEVERAGE CONTROL"</item>
+		<item>"ARTS COUNCIL"</item>
+		<item>"BALDWIN HILLS CONSERVANCY"</item>
+		<item>"BOARD OF CHIROPRACTIC EXAMRS"</item>
+		<item>"BOARD OF EQUALIZATION"</item>
+		<item>"BOARD OF GOVERNORS CMTY COLLG"</item>
+		<item>"BOARD OF OSTEOPATHIC EXAMINER"</item>
+		<item>"BOATING AND WATERWAYS"</item>
+		<item>"BRD PILOT COMM"</item>
+		<item>"BUREAU OF STATE AUDITS"</item>
+		<item>"BUSINESS, TRANS &amp; HOUSING AGY "</item>
+		<item>"CA Assembly"</item>
+		<item>"CA SENATE"</item>
+		<item>"CA. ALTERNTVE ERGY SR FN AUTH "</item>
+		<item>"CA. CHILDREN/FAMILIES 1ST COM "</item>
+		<item>"CA. COASTAL COMMISSION"</item>
+		<item>"CA. DEBT ADVISORY COMMISSION"</item>
+		<item>"CA. DEBT LIMIT ALLOCATION COM "</item>
+		<item>"CA. EARTHQUAKE AUTHORITY"</item>
+		<item>"CA. EDUC FACILITIES AUTHORITY "</item>
+		<item>"CA. EMERGENCY MANAGEMENT AGY"</item>
+		<item>"CA. GAMBLING CONTROL COMM"</item>
+		<item>"CA. HEALTH FACILITIES AUTH"</item>
+		<item>"CA. INDSTRL DEV FIN ADVSY COM "</item>
+		<item>"CA. INST FOR REGENERATIVE MED "</item>
+		<item>"CA. JUDICIAL CENTER LIBRARY"</item>
+		<item>"CA. LAW REVISION COMMISSION"</item>
+		<item>"CA. MEDICAL ASSISTANCE COMM"</item>
+		<item>"CA. MORTGAGE BOND,TAX CREDIT"</item>
+		<item>"CA. POLLUTN CONTRL FIN AUTH"</item>
+		<item>"CA. SCHOOL FINANCE AUTHORITY"</item>
+		<item>"CA. TAHOE CONSERVANCY"</item>
+		<item>"CA. TRANSPORTATION COMMISSION "</item>
+		<item>"CALIFORNIA CONSERVATION CORPS "</item>
+		<item>"CALIFORNIA DEPT OF AGING"</item>
+		<item>"CALIFORNIA HIGHWAY PATROL"</item>
+		<item>"CALIFORNIA HORSE RACING BOARD "</item>
+		<item>"CALIFORNIA SENIOR LEGISLATURE "</item>
+		<item>"CALIFORNIA STATE LIBRARY"</item>
+		<item>"CALIFORNIA STATE LOTTERY COMM "</item>
+		<item>"COACHELLA VALLEY MOUNT CONSER "</item>
+		<item>"COLORADO RIVER BOARD OF CA."</item>
+		<item>"COMM ON STATE GOVT ORG &amp; ECON "</item>
+		<item>"COMM ON TEACHER CREDENTIALING "</item>
+		<item>"COMM ON THE STATUS OF WOMEN"</item>
+		<item>"COMMISSION ON AGING"</item>
+		<item>"COMMISSION ON JUDICAL PERFORM "</item>
+		<item>"COMMISSION ON STATE MANDATES"</item>
+		<item>"COMMUNITY SERVICES/DEVELOPMEN "</item>
+		<item>"CONSERVATION"</item>
+		<item>"CONSUMER AFFAIRS"</item>
+		<item>"CORPORATIONS"</item>
+		<item>"CORRECTIONS"</item>
+		<item>"COURT OF APPEAL"</item>
+		<item>"CSU"</item>
+		<item>"CSU ADMINISTRATION"</item>
+		<item>"CSU BAKERSFIELD"</item>
+		<item>"CSU CA. MARITIME ACADEMY"</item>
+		<item>"CSU CHANNEL ISLANDS"</item>
+		<item>"CSU CHICO"</item>
+		<item>"CSU DOMINGUEZ HILLS"</item>
+		<item>"CSU EAST BAY"</item>
+		<item>"CSU FRESNO"</item>
+		<item>"CSU FULLERTON"</item>
+		<item>"CSU HUMBOLDT"</item>
+		<item>"CSU LONG BEACH"</item>
+		<item>"CSU LOS ANGELES"</item>
+		<item>"CSU MONTEREY BAY"</item>
+		<item>"CSU NORTHRIDGE"</item>
+		<item>"CSU POMONA"</item>
+		<item>"CSU SACRAMENTO"</item>
+		<item>"CSU SAN BERNARDINO"</item>
+		<item>"CSU SAN DIEGO"</item>
+		<item>"CSU SAN FRANCISCO"</item>
+		<item>"CSU SAN JOSE"</item>
+		<item>"CSU SAN LUIS OBISPO"</item>
+		<item>"CSU SAN MARCOS"</item>
+		<item>"CSU SONOMA"</item>
+		<item>"CSU STANISLAUS"</item>
+		<item>"DELTA PROTECTION COMMISSION"</item>
+		<item>"DEPARTMENT OF MANAGED CARE"</item>
+		<item>"DEPARTMENT OF PUBLIC HEALTH"</item>
+		<item>"DEPT OF ALCOHOL &amp; DRUG PRGMS"</item>
+		<item>"DEPT OF CHILD SUPPORT SERVICE "</item>
+		<item>"DEPT OF FINANCIAL INSTITUTION "</item>
+		<item>"DEPT RESOURCES RECYCLE/RECVRY "</item>
+		<item>"DEVELOPMENTAL SERVICES"</item>
+		<item>"EDUCATION"</item>
+		<item>"EDUCATION AUDIT APPEALS PANEL "</item>
+		<item>"EMERGENCY MED SERVS AUTHORITY "</item>
+		<item>"EMPLOYMENT DEVELOPMENT DEPT"</item>
+		<item>"ENVIRNMTL HLTH HAZRD ASSESS"</item>
+		<item>"FAIR EMPLOYMENT AND HOUSING"</item>
+		<item>"FAIR POLITICAL PRACTICES COMM "</item>
+		<item>"FINANCE"</item>
+		<item>"FINANCIAL INFO SYS FOR CA OFF "</item>
+		<item>"FISH AND GAME"</item>
+		<item>"FOOD AND AGRICULTURE"</item>
+		<item>"FORESTRY AND FIRE PROTECTION"</item>
+		<item>"FRANCHISE TAX BOARD"</item>
+		<item>"GENERAL SERVICES"</item>
+		<item>"GOVERNOR'S OFFICE"</item>
+		<item>"HABEAS CORPUS RESOURCE CENTER "</item>
+		<item>"HEALTH &amp; HUMAN RESOURCES AGY"</item>
+		<item>"HEALTH SERVICES"</item>
+		<item>"HOUSING AND COMMUNITY DEVELOP "</item>
+		<item>"HOUSING FINANCE AGENCY"</item>
+		<item>"INDUSTRIAL RELATIONS"</item>
+		<item>"INSURANCE"</item>
+		<item>"INTERCITY HIGH SPEED RAIL COM "</item>
+		<item>"JUDICIAL COUNCIL"</item>
+		<item>"JUSTICE"</item>
+		<item>"LABOR AND WORKFORCE DEV AGENC "</item>
+		<item>"LEGISLATIVE COUNSEL BUREAU"</item>
+		<item>"LEGISLATURE- ASSEMBLY"</item>
+		<item>"LEGISLATURE- SENATE"</item>
+		<item>"MANAGED RISK MEDICAL INS BRD"</item>
+		<item>"MENTAL HEALTH"</item>
+		<item>"MILITARY DEPARTMENT"</item>
+		<item>"MOTOR VEHICLES"</item>
+		<item>"MUSEUM OF SCIENCE &amp; INDUSTRY"</item>
+		<item>"NATIVE AMERICAN HERITAGE COMM "</item>
+		<item>"OFC OF SECTY ENVIRMTL PROTECT "</item>
+		<item>"OFF STATE CHIEF INFO OFFICER"</item>
+		<item>"OFFICE OF ADMINISTRATIVE LAW"</item>
+		<item>"OFFICE OF INSPECTOR GENERAL"</item>
+		<item>"OFFICE OF REAL ESTATE APPRSRS "</item>
+		<item>"OFFICE OF STW HLTH PLNG &amp; DEV "</item>
+		<item>"OFFICE OF SYSTEMS INTEGRATION "</item>
+		<item>"OFFICE OF TRAFFIC SAFETY"</item>
+		<item>"PARKS AND RECREATION"</item>
+		<item>"PEACE OFF STANDARDS &amp; TRAING"</item>
+		<item>"PERSONNEL ADMINISTRATION"</item>
+		<item>"PESTICIDE REGULATION"</item>
+		<item>"POSTSECONDARY EDUC COMMISSION "</item>
+		<item>"PUBLIC EMPL'S RETIREMENT SYS"</item>
+		<item>"PUBLIC EMPLMT RELATIONS BOARD "</item>
+		<item>"PUBLIC UTILITIES COMMISSION"</item>
+		<item>"REAL ESTATE"</item>
+		<item>"REHABILITATION"</item>
+		<item>"RESOURCES AGENCY"</item>
+		<item>"SAN DIEGO RIVER CONSERVANCY"</item>
+		<item>"SAN FRANCISCO BAY CON&amp;DEV CM"</item>
+		<item>"SAN GABRIEL LOW LA RIV/MTN CO "</item>
+		<item>"SAN JOAQUIN RIVER CONSERVANCY "</item>
+		<item>"SANTA MONICA MTS CONSERVANCY"</item>
+		<item>"SCHOLARSHARE INVESTMENT BOARD "</item>
+		<item>"SEC FOR STATE &amp; CONS SVS AGY"</item>
+		<item>"SECRETARY OF STATE'S OFFICE"</item>
+		<item>"SEISMIC SAFETY COMMISSION"</item>
+		<item>"SIERRA NEVADA CONSERVANCY"</item>
+		<item>"SOCIAL SERVICES"</item>
+		<item>"STATE COASTAL CONSERVANCY"</item>
+		<item>"STATE COMP INSURANCE FUND"</item>
+		<item>"STATE CONTROLLER'S OFFICE"</item>
+		<item>"STATE COUNCIL ON DEVL DISABL"</item>
+		<item>"STATE ENERGY RES CONS&amp;DEV COM "</item>
+		<item>"STATE INDEPENDENT LIVING COUN "</item>
+		<item>"STATE LANDS COMMISSION"</item>
+		<item>"STATE PERSONNEL BOARD"</item>
+		<item>"STATE PUBLIC DEFENDER"</item>
+		<item>"STATE TEACHERS RETIREMENT SYS "</item>
+		<item>"STATE TREASURER'S OFFICE"</item>
+		<item>"STATUTORY OFFICERS"</item>
+		<item>"STUDENT AID COMMISSION"</item>
+		<item>"SUPREME COURT"</item>
+		<item>"TOXIC SUBSTANCES CONTROL"</item>
+		<item>"TRANSPORTATION"</item>
+		<item>"UC BERKELEY"</item>
+		<item>"UC DANR"</item>
+		<item>"UC DAVIS"</item>
+		<item>"UC IRVINE"</item>
+		<item>"UC LOS ANGELES"</item>
+		<item>"UC MERCED"</item>
+		<item>"UC RIVERSIDE"</item>
+		<item>"UC SAN DIEGO"</item>
+		<item>"UC SAN FRANCISCO"</item>
+		<item>"UC SANTA BARBARA"</item>
+		<item>"UC SANTA CRUZ"</item>
+		<item>"UC UCOP"</item>
+		<item>"VETERANS AFFAIRS"</item>
+		<item>"VICTIM COMP &amp; GOV CLAIMS BRD"</item>
+		<item>"WATER RESOURCES"</item>
+		<item>"WATER RESOURCES CONTROL BOARD "</item>
+		<item>"WILDLIFE CONSERVATION BOARD"</item>
+	</string-array>
+</resources>
