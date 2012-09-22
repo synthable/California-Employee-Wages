@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0"
+	id="net.boxware.cswp" version="1.0.0b">
+
+	<name>State Worker Pay</name>
+
+	<description>California state worker salary search</description>
+
+	<author href="https://www.boxware.net" email="jcknight@gmail.com">Boxware, LLC</author>
+
+	<icon src="icon.png" gap:role="default" />
+
+	<preference name="orientation" value="both" />
+	<preference name="show-splash-screen-spinner" value="false" />
+	<preference name="permissions" value="none" />
+
+
+
+	<!-- <icon src="icons/ios/regular.png" width="57" height="57" />
+	<icon src="icons/ios/ipad.png" gap:platform="ios" width="72" height="72" />
+	<icon src="icons/ios/retina.png" width="114" height="114" />
+
+	<icon src="icons/android/ldpi.png" gap:platform="android" gap:density="ldpi" />
+	<icon src="icons/android/mdpi.png" gap:platform="android" gap:density="mdpi" />
+	<icon src="icons/android/hdpi.png" gap:platform="android" gap:density="hdpi" />
+	<icon src="icons/android/xhdpi.png" gap:platform="android" gap:density="xhdpi" /> -->
+</widget>
