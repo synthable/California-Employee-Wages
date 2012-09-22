@@ -112,6 +112,7 @@ $("ul#results-list").on("click", "a", function(e) {
 });
 
 var App = {
+	topSalariesUrl: "http://www.sacbee.com/static/statepay2/json/top_salaries_2011.json",
 	detailsUrl: "http://www.sacbee.com/cgi-bin/php/statepay2/employee.php?",
 	searchUrl: "http://www.sacbee.com/cgi-bin/php/statepay2/query.php?",
 
@@ -167,6 +168,28 @@ var App = {
 		}, "json");
 	},
 
+	topSalaries: function() {
+		$.get(App.topSalariesUrl, null, function(json) {
+			if(json.rows.length > 0) {
+				for(var x in json.rows) {
+					var w = App.getWorker( json.rows[x].c );
+					$("#results-list").append("<li><a id=\""+ w.id +"\">"+
+						"<h4>"+ w.name +"</h4>"+
+						"<p>"+ w.department +"</p>"+
+						"<p>"+ w.title +"</p>"+
+						"<strong>"+ w.pay.total.f +"</strong>"
+					+"</a></li>");
+				}
+			} else {
+				$("#results-list").append("<li>"+
+					"<center><h4>No Results Found</h4></center>"
+				+"</li>");
+			}
+
+			$("#results-list").listview("refresh");
+		}, "json");
+	},
+
 	getWorker: function(worker) {
 		return {
 			id: worker[0].v,
@@ -184,6 +207,7 @@ var App = {
 		}
 	}
 }
+App.topSalaries();
 </script>
 
 </body>
