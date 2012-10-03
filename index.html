@@ -1,25 +1,24 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-<!--<meta name="viewport" content="width=device-width; user-scalable=no" />-->
 <meta http-equiv="Content-type" content="text/html; charset=utf-8">
 
-<link rel="stylesheet" type="text/css" media="all" href="http://code.jquery.com/mobile/1.2.0-rc.2/jquery.mobile-1.2.0-rc.2.min.css" />
-<script src="http://code.jquery.com/jquery-1.8.1.min.js"></script>
+<link rel="stylesheet" type="text/css" media="all" href="css/jquery.mobile-1.2.0.min.css" />
+<script src="js/jquery-1.8.1.min.js"></script>
 <script>
 localStorage;
 
 $(document).bind("mobileinit", function() {
 	$.mobile.buttonMarkup.hoverDelay = 0;
 	$.mobile.nonHistorySelectors = "dialog";
-	$.mobile.allowCrossDomainPages = true;
+	$.mobile.defaultPageTransition = "slide";
 
 	$.mobile.loader.prototype.options.text = "loading...";
 	$.mobile.loader.prototype.options.textVisible = true;
 	$.mobile.loader.prototype.options.theme = "a";
 });
 </script>
-<script src="http://code.jquery.com/mobile/1.2.0-rc.2/jquery.mobile-1.2.0-rc.2.min.js"></script>
+<script src="js/jquery.mobile-1.2.0.min.js"></script>
 
 <style type="text/css">
 input[type=number]::-webkit-inner-spin-button,
@@ -128,7 +127,7 @@ var App = {
 	},
 
 	submit: function() {
-		if($("input#search").val() == "" && $("input#department").val() == "") {
+		if($("input#search").val() == "" && $("select#department").val() == "") {
 			$("div#searchPopup").popup("open", {
 				positionTo: "input#submit"
 			});
